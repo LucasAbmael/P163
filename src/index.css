@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 120vh;
+  padding-top: 80px;
+  background-color: #f4f5f7;
+}
