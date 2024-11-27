@@ -31,7 +31,9 @@ No site do github, com o projeto aberto, você encontrará um botão verde, seme
 
 Clique nele e deve aparecer um dropdown, com algumas opções, clique em "Open With GitHub Desktop" e no aplicativo, clique em clonar repositório. Pronto, o projeto já está em sua máquina, agora vamos garantir que todas as dependências do projeto sejam instaladas.
 
-Para isso, é muito simples, no Visual Studio Code, navegue até os 3 pontos e depois em "Terminal" > "New Terminal" ou simplesmente, em seu teclado pressione " Ctrl + Shift + ' "
+<br>
+
+Para isso, é muito simples, no Visual Studio Code, navegue até os 3 pontos e depois em "Terminal" > "New Terminal" ou simplesmente, em seu teclado pressione Ctrl + Shift + '
 
 ![Passos mencionados acima](./public/vscode.png)
 
